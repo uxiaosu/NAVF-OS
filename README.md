@@ -1,2 +1,2 @@
-# NAVF-OS
-Native AI-Vector Framework Operating System
+NAVF-OS is the world’s first “AI-Vector Framework” operating system: a micro-kernel built from scratch in pure C that embeds large-model inference and vector computation directly into Ring-0. From power-on, you can manage processes, memory, and networks with natural language while millisecond-level AI inference runs on native vector instructions. Smaller, faster, and more attuned to your needs—turning every device into a thinking machine from the very first heartbeat.  
+【Currently under active development; source not yet published】
